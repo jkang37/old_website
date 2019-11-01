@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Class Projects | Jizhou Kang&#39;s Personal Website</title>
+    <link>https://jkang37.github.io/tags/class-projects/</link>
+      <atom:link href="https://jkang37.github.io/tags/class-projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Class Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Jizhou Kang</copyright><lastBuildDate>Thu, 31 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jkang37.github.io/img/icon-192.png</url>
+      <title>Class Projects</title>
+      <link>https://jkang37.github.io/tags/class-projects/</link>
+    </image>
+    
+    <item>
+      <title>Comparison Between Choices of Step Length for Gradient Descent Method</title>
+      <link>https://jkang37.github.io/project/optimization-project/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jkang37.github.io/project/optimization-project/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Coded in Matlab gradient descent algorithm with five different choice of step length: fixed step length, deceasing step length, formula based on local information, exact line search and inexact line search.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Compared the performance of each algorithm in solving quadratic optimization problem with different Hessian matrix.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Wrote a report about the advantages and disadvantages of each algorithm and how these may change as a function of the condition number of the Hessian matrix.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>House Price Prediction Using Advanced Statistical Learning Method</title>
+      <link>https://jkang37.github.io/project/house-price-project/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jkang37.github.io/project/house-price-project/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Reviewed literature about data cleaning, feature selection, and statistical modeling.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Coded in R for missing data imputation, data visualization and exploratory data analysis.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Implied Lasso regression and tree based method to select features and do out-of-sample prediction.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ranked top 10% among more than 2000 teams in a related Kaggle competition.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Extended the method to a big dataset (millions of items) and developed a spacial-temporal simulator.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing and Application in Spam/Ham Detection</title>
+      <link>https://jkang37.github.io/project/spam-ham-project/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jkang37.github.io/project/spam-ham-project/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Implied ”re” package in PYTHON and a TF-IDF criteria to process natural language.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Coded in PYTHON a naive Bayesian classifier by minimizing a self-defined loss function.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Achieved over 98% accuracy(about 30% improvement from the baseline model).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
